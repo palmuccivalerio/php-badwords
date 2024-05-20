@@ -24,6 +24,7 @@ $paragrafLunghezza=  strlen($paragraf)
   <p>Questo paragrafo è lungo <?php echo $paragrafLunghezza; ?> caratteri</p>
   <h2>Ecco il tuo paragrafo con censura</h2>
   <p> <?php echo $paragrafCensurato; ?></p>
+  <p>Questo paragrafo è lungo <?php echo $paragrafLunghezza; ?> caratteri</p>
 
   
 </body>
